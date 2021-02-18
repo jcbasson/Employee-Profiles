@@ -1,0 +1,129 @@
+{
+    "companyInfo": {
+        "companyName": "Becker - Becker",
+        "companyMotto": "mission-critical harness functionalities",
+        "companyEst": "2016-04-29T23:20:52.285Z"
+    },
+    "employees": [
+        {
+            "id": "90f3e8cc-7a81-4de6-9c9e-c55f88936a40",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/y2graphic/128.jpg",
+            "firstName": "Ellie",
+            "lastName": "Scott",
+            "jobTitle": "Lead Assurance Director",
+            "age": 42,
+            "bio": "Tenetur commodi aspernatur et qui rerum. Harum et itaque unde dolorem tempora aperiam quos. Animi sunt ab nemo magni sit fugit optio rerum et. Dolorum vel aliquam dolorem amet perferendis ab sed consequatur.",
+            "dateJoined": "2016-02-07T16:35:07.687Z"
+        },
+        {
+            "id": "ac81ae8b-516e-4888-8bb5-e85741bc406c",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/psaikali/128.jpg",
+            "firstName": "Claire",
+            "lastName": "Fahey",
+            "jobTitle": "Investor Directives Officer",
+            "age": 60,
+            "bio": "Architecto rem qui sunt quae architecto ea cum doloremque iste. Ratione reiciendis odio et quam repellat impedit tempore id. Iusto temporibus qui quidem facilis consectetur velit repellat. Illo delectus debitis dicta exercitationem. Voluptatem enim sed nihil quam. Corrupti cum et consequatur officia ut dolor odit.",
+            "dateJoined": "2018-06-29T12:55:51.889Z"
+        },
+        {
+            "id": "ec9f2b8c-bc1a-4ab8-b9cb-055a8471ffee",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jordyvdboom/128.jpg",
+            "firstName": "Callum",
+            "lastName": "Bartell",
+            "jobTitle": "Future Implementation Producer",
+            "age": 51,
+            "bio": "Et laudantium voluptate molestiae rem aperiam molestiae aut possimus. Corrupti sint iure in voluptatem est eaque accusantium dolorem. Voluptas quis et doloribus.",
+            "dateJoined": "2019-08-13T22:15:16.397Z"
+        },
+        {
+            "id": "f57443fc-526f-4973-8d7a-45bfaf0c6a68",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/andrewofficer/128.jpg",
+            "firstName": "James",
+            "lastName": "Mitchell",
+            "jobTitle": "Legacy Functionality Analyst",
+            "age": 26,
+            "bio": "Modi consequatur eaque nam non. Dolorem expedita adipisci provident cumque aut ut voluptate voluptas. Est est quis esse et nisi quia sequi veritatis quidem. Dolor reiciendis laudantium modi omnis. Cum consequatur nisi quam quisquam dolor molestiae perspiciatis. Non tenetur et nostrum maiores maiores porro qui cupiditate.",
+            "dateJoined": "2018-09-25T07:11:34.358Z"
+        },
+        {
+            "id": "d42e7033-61e5-4fb7-b472-495f7b1fe90e",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/joaoedumedeiros/128.jpg",
+            "firstName": "Jonathan",
+            "lastName": "Marks",
+            "jobTitle": "Lead Integration Director",
+            "age": 58,
+            "bio": "Enim est quam animi dolores id animi maxime fugit perspiciatis. Consequuntur officiis autem eum. Aliquam facere fugiat sunt nisi ut corporis in eos. Velit ex quis deserunt ullam nostrum. Quia sint eum. Iusto sunt omnis facilis ut.",
+            "dateJoined": "2011-04-01T03:33:07.355Z"
+        },
+        {
+            "id": "9e8cb2b2-6210-4a95-87b9-05ec34455594",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/_dwite_/128.jpg",
+            "firstName": "Jasper",
+            "lastName": "Cormier",
+            "jobTitle": "Regional Accounts Developer",
+            "age": 36,
+            "bio": "Repellat nemo dolores. Doloremque accusamus provident qui accusantium sed. Deserunt voluptatem ipsam est.",
+            "dateJoined": "2018-01-11T17:09:40.849Z"
+        },
+        {
+            "id": "3845fd2c-5151-4ddf-9828-76bea71b8f75",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/markwienands/128.jpg",
+            "firstName": "Aidan",
+            "lastName": "Welch",
+            "jobTitle": "District Division Manager",
+            "age": 35,
+            "bio": "Porro voluptates modi. Corporis pariatur facilis beatae tempore quisquam illum. Velit qui excepturi laudantium eum odio.",
+            "dateJoined": "2017-09-09T17:00:49.250Z"
+        },
+        {
+            "id": "213b77a0-ced2-485b-b2ca-1cdebf307620",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/otozk/128.jpg",
+            "firstName": "Harry",
+            "lastName": "Windler",
+            "jobTitle": "Internal Paradigm Representative",
+            "age": 19,
+            "bio": "Reiciendis placeat dolores velit nihil blanditiis. Aliquid ut quis quas at. Maxime occaecati numquam. Et et nemo impedit quos modi. Nostrum quibusdam quos ut. Minima blanditiis quis omnis sit aut.",
+            "dateJoined": "2013-04-10T11:24:13.287Z"
+        },
+        {
+            "id": "bd6e8c65-5400-4ecb-a2b9-a47daef37c73",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/abdullindenis/128.jpg",
+            "firstName": "Matilda",
+            "lastName": "Tillman",
+            "jobTitle": "Legacy Factors Strategist",
+            "age": 23,
+            "bio": "Qui eius incidunt saepe asperiores veniam harum repellat. Est magni magnam voluptatem. Nisi earum amet libero qui qui officiis.",
+            "dateJoined": "2018-11-25T04:53:41.859Z"
+        },
+        {
+            "id": "a43bec64-ef7e-44f0-8f7d-abf12eb4fa00",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/timpetricola/128.jpg",
+            "firstName": "Sophie",
+            "lastName": "Ebert",
+            "jobTitle": "District Directives Developer",
+            "age": 62,
+            "bio": "Sequi ipsum non optio voluptatem. Et quam facilis consequatur blanditiis. Cumque est dolor saepe impedit impedit accusantium est numquam.",
+            "dateJoined": "2019-07-03T05:59:19.716Z"
+        },
+        {
+            "id": "43a9af6e-fec8-4e0b-a223-ff9a70e34277",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/yecidsm/128.jpg",
+            "firstName": "Piper",
+            "lastName": "Mueller",
+            "jobTitle": "Senior Factors Consultant",
+            "age": 28,
+            "bio": "Necessitatibus ratione quos voluptatem eaque eum sunt et. Sed nostrum nam animi quis iste nesciunt dolor consectetur at. Optio eos consequuntur blanditiis maiores voluptatem molestiae et. Similique velit possimus rem aut necessitatibus maxime tempore reprehenderit qui. Est placeat ab alias ut consequatur eum voluptate expedita et.",
+            "dateJoined": "2013-12-26T17:04:39.319Z"
+        },
+        {
+            "id": "9d357327-e760-44eb-a013-bc34b7406075",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mrxloka/128.jpg",
+            "firstName": "Justin",
+            "lastName": "Botsford",
+            "jobTitle": "Dynamic Tactics Director",
+            "age": 38,
+            "bio": "Consectetur rerum in id. Odio qui molestias. Qui id dolorem inventore nesciunt tempora. Dolorem repellendus eius ipsum sapiente et nam numquam. Reiciendis quia itaque doloribus in et ut eos ipsum.",
+            "dateJoined": "2018-11-17T02:04:12.356Z"
+        }
+    ]
+}
