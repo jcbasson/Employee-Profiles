@@ -1,4 +1,4 @@
-# NOTES
+# Employee Profiles
 
 ## Setup
 
@@ -9,6 +9,6 @@
 
 ## Notes
 
-- Simple responsive app showcasing my use of react, redux, testing, and apollo
+- Simple responsive app showcasing my use of react, redux, testing,reponsive css/html and apollo
 - Server is just a rough draft to aid the client so should not be taken seriously
 - Avatar images might not longer exist on the amazon CDN

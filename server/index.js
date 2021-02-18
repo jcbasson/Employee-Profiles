@@ -1,6 +1,6 @@
 const express = require("express");
 const expressGraphQL = require("express-graphql");
-const schema = require("./schema/clearPoint");
+const schema = require("./schema/employees");
 const cors = require("cors");
 const { getErrorCode } = require("./utils/errorUtils");
 
